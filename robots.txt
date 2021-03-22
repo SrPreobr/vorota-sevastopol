@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: / 
+Allow: /index.html
+Allow: /about.html
+Allow: /exitdata.html
+Allow: /img/
+Allow: /p/
+Sitemap: http://www.vorota-sevastopol.ru/sitemap.xml
+Host: vorota-sevastopol.ru
