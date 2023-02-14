@@ -6,8 +6,8 @@ Allow: /exitdata.html
 Allow: /img/
 Allow: /p/
 
-Disallow: https://vorota-sevastopol.ru/index.html
-Disallow: https://www.vorota-sevastopol.ru/index.html
+# Disallow: https://vorota-sevastopol.ru/index.html
+# Disallow: https://www.vorota-sevastopol.ru/index.html
 
 Sitemap: http://vorota-sevastopol.ru/sitemap.xml
 Host: vorota-sevastopol.ru
